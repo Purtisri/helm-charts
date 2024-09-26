@@ -9,7 +9,7 @@ entries:
     name: mychart1
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart1-0.1.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart1-0.1.0.tgz
     version: 0.1.0
   mychart2:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart2-0.4.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart2-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: 3.0.0
@@ -30,7 +30,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart2-0.3.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart2-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.0.0
@@ -40,7 +40,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart2-0.2.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart2-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
@@ -50,7 +50,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart2-0.1.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart2-0.1.0.tgz
     version: 0.1.0
   mychart3:
   - apiVersion: v2
@@ -61,7 +61,7 @@ entries:
     name: mychart3
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart3-1.0.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart3-1.0.0.tgz
     version: 1.0.0
   mychart4:
   - apiVersion: v2
@@ -72,7 +72,7 @@ entries:
     name: mychart4
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/mychart4-0.1.0.tgz
+    - https://Purtisri.github.io/helm-charts/mychart4-0.1.0.tgz
     version: 0.1.0
   umsapp:
   - apiVersion: v2
@@ -89,6 +89,6 @@ entries:
     name: umsapp
     type: application
     urls:
-    - https://stacksimplify.github.io/helm-charts/umsapp-1.0.0.tgz
+    - https://Purtisri.github.io/helm-charts/umsapp-1.0.0.tgz
     version: 1.0.0
 generated: "2023-08-17T04:14:04.295211+05:30"
